@@ -58,7 +58,7 @@ controller.moveSprite(mySprite, 100, 100)
 mySprite.setStayInScreen(true)
 info.setLife(5)
 enemyShip.follow(mySprite)
-game.splash("Hello traveler! Welcome to Space Shooter!", "")
+game.splash("Hello traveler! Welcome to Space Invaders!")
 game.onUpdateInterval(2000, function () {
     enemyShip = sprites.create(img`
         . . . . . . . . . . . . . . . . 

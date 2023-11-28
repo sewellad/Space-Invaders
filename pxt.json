@@ -1,5 +1,5 @@
 {
-    "name": "Unit 1 project",
+    "name": "Space Invaders",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -19,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.41",
+        "target": "1.12.46",
         "targetId": "arcade"
     },
     "supportedTargets": [
